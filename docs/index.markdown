@@ -9,3 +9,5 @@ title:"ソフトウェア工学"
 #ソフトウェア工学
 
 git/github演習
+
+[softwareEng Lecture Notes](softwareEng2026.md)
